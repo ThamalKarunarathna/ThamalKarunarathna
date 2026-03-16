@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a motivated **Associate Software Engineer** with **2.5+ years of hands-on experience in PHP and Laravel**, currently working at **Csquare Technology Pvt Ltd**, where I also completed my internship.
+I’m a motivated **Associate Software Engineer** with **2.5+ years of hands-on experience in PHP, Laravel, JAVA, Spring Boot And React**, currently working at **Csquare Technology Pvt Ltd**, where I also completed my internship.
 
 I specialize in developing **real-world business applications** such as POS systems, reporting dashboards, and management platforms. I focus strongly on **clean code, scalability, and performance**.
 
